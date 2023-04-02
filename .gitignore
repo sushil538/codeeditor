@@ -1,0 +1,118 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+.env
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+npm-error.log*
+yarn-debug.log*
+yarn-error.log*
+
+../../../.bash_history
+        ../../../.config/
+        ../../../.gitconfig
+        ../../../.idlerc/
+        ../../../.ipython/
+        ../../../.matplotlib/
+        ../../../.node_repl_history
+        ../../../.th-client/
+        ../../../.vscode/
+        ../../../3D Objects/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../
+        ../../../Documents/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../IntelGraphicsProfiles/
+        ../../../Links/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf   
+        ../../../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+        ../../../OneDrive/
+        ../../../Pictures/
+        ../../../STL FUNCTIONS.cpp
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Untitled-1 STL.cpp
+        ../../../Untitled-1.cpp
+        ../../../Untitled-1.exe
+        ../../../Untitled-1.ipynb
+        ../../../Untitled-10.cpp
+        ../../../Untitled-10.exe
+        ../../../Untitled-13.cpp
+        ../../../Untitled-13.exe
+        ../../../Untitled-14.cpp
+        ../../../Untitled-14.exe
+        ../../../Untitled-15.cpp
+        ../../../Untitled-15.exe
+        ../../../Untitled-16.cpp
+        ../../../Untitled-16.exe
+        ../../../Untitled-17.cpp
+        ../../../Untitled-17.exe
+        ../../../Untitled-18.cpp
+        ../../../Untitled-18.exe
+        ../../../Untitled-19.cpp
+        ../../../Untitled-19.exe
+        ../../../Untitled-20.cpp
+        ../../../Untitled-6.cpp
+        ../../../Untitled-6.exe
+        ../../../Untitled-7.cpp
+        ../../../Untitled-7.exe
+        ../../../Untitled-9.cpp
+        ../../../Untitled-9.exe
+        ../../../Untitled2.py
+        ../../../VS CODE C++.cpp
+        ../../../VS CODE C++.txt
+        ../../../Videos/
+        ../../../Waveform.vwf
+        ../../../aboutus.html
+        ../../../array.cpp
+        ../../../array.exe
+        ../../../asgn-q5.cpp
+        ../../../asgn-q5.exe
+        ../../../cd
+        ../../../circular-linklist.cpp
+        ../../../circular-linklist.exe
+        ../../../doubly-link-list.cpp
+        ../../../doubly-link-list.exe
+        ../../../exp.ipynb
+        ../../../htmljava.html
+        ../../../ilyUkBmU4hH
+        ../../../import random.py
+        ../../../logostic regression.py
+        ../../../matplotlip.py
+        ../../../newnode1/
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
+        ../../../numpy.ipynb
+        ../../../qms-bmh1.bmp
+        ../../../qms-bmh2.bmp
+        ../../../qms-bmh3.bmp
+        ../../../quartus2.ini
+        ../../../quartus2.qreg
+        ../../../stl differnt functions.cpp
+        ../../../tempCodeRunnerFile.cpp
+        ../../../testing.cpp
+        ../../../testing.exe
+        ../../../wine model.py
